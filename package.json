@@ -1,7 +1,7 @@
 {
   "name": "mster3313.github.io",
   "version": "0.1.0",
-  "homepage": "http://mahendrad.me/",
+  "homepage": "https://mster3313.github.io/",
   "private": true,
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
