@@ -144,7 +144,7 @@ const achievementSection = {
       image:
         "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/31/8ffb301bf011e79fa2d5b154b6a30b/GCP-Fundamentals-Core-Infra.jpg?auto=format%2Ccompress&dpr=1",
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" }
+        { name: "Certification", url: "https://drive.google.com/file/d/14-WJhCOE8JyAw2XVYRH2oYPyEK9lxfqY/view?usp=sharing" }
       ]
     },
     {
