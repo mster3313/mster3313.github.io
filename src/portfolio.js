@@ -124,9 +124,9 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "STARTUPS THAT I CONTRIBUTED IN",
   projects: [
-    {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+    { 
+      image: "https://drive.google.com/uc?id=1nzaZD3vu1EkQWThoAfgC9dkTxKTHhyfA",
+      link: "https://fixy.lk/"
     },
   ]
 };
@@ -136,34 +136,30 @@ const bigProjects = {
 const achievementSection = {
 
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
 
   achivementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle: "First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries",
+      title: "Google Cloud Computing",
+      subtitle: "Google Cloud Platform Fundamentals: Core Infrastructure",
       image:
-        "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
+        "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/31/8ffb301bf011e79fa2d5b154b6a30b/GCP-Fundamentals-Core-Infra.jpg?auto=format%2Ccompress&dpr=1",
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      title: "Amazon Web Services",
+      subtitle: "Completed courses on AWS Fundamentals: Going Cloud-Native and AWS Fundamentals: Addressing Security Risk",
+      image: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4b/779690e17211e8a2716dce94c217bd/1200x1200_core.png?auto=format%2Ccompress&dpr=1",
+      footerLink: [{ name: "Certification", url: "https://drive.google.com/drive/folders/1s3sl_Aba3OJGtf4O08MUQddCE9aNMu3r?usp=sharing" }]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+      title: "Web App Development",
+      subtitle: "Completed Certifcation from Coursera for Backend Development with Express and MongoDB",
+      image: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c3/2ab0304cf611e7a143498f0a05f3b8/Logo.png?auto=format%2Ccompress&dpr=1",
       footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
+        { name: "Certification", url: "https://drive.google.com/drive/folders/1avgId7sQdZuLoDTCa1oVr_YTFwpE3ipL?usp=sharing" }
       ]
     }
   ]
@@ -221,7 +217,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   number: "+94-71 921 2216",
-  email_address: "mahen@gmail.com"
+  email_address: "mahen6513@gmail.com"
 };
 
 //Twitter Section
