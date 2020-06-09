@@ -10,7 +10,7 @@ const greeting = {
   title: "Hi! I'm Mahendra",
   subTitle: emoji("Computer Engineering undergraduate 👨🏻‍🎓 at University of Peradeniya. \
   Splitted personalities - a tech enthusiast 👨🏻‍💻💻📱, a foodie 🍔🌮🌭🍕, a gamer 🎮🕹️, and a music lover 🎻🎧"),
-  resumeLink: "https://drive.google.com/file/d/177FTFCgIKt74OsmXHjjCuC_DSCUQU5zi/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1U2wX2QBglm8MeMl8qrii4EEFih24fwHw/view?usp=sharing"
 };
 
 // Your Social Media Link
